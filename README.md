@@ -13,7 +13,7 @@
 - ⚡ Fun fact: see more...
 - 
 ### I code in 
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://icons8.com/icons/set/dart" alt="Dart"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
