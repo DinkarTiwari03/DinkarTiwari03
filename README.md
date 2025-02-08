@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinkar Kumar Tiwari</h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <h3 align="center">Flutter` developer form Nepal</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinkarTiwari03 &label=Profile%20views&color=0e75b6&style=flat" alt="DinkarTiwari03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinkarTiwari03&label=Profile%20views&color=0e75b6&style=flat" alt="DinkarTiwari03" /> </p>
 
 -  Student at KPR Institute of Engineering and Technology                                               
 - 🌱 I’m currently learning App Development and DSA
