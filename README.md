@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on App Development projects
 - 💬 Ask me about App Development, Android Studio, Flutter, Dart, Java, C, Python 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinkar-kumar-tiwari-185786289/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinkar-kumar-tiwari-185786289/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: see more...
 - 
