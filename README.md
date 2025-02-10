@@ -1,3 +1,4 @@
+![logo](https://github.com/DinkarTiwari03/DinkarTiwari03/blob/main/Screenshot%20(3).png)
 <h1 align="center">Hi 👋, I'm Dinkar Kumar Tiwari</h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <h3 align="center">     I am Flutter developer</h3>
