@@ -7,7 +7,7 @@
 -  Student at KPR Institute of Engineering and Technology                                               
 - 🌱 I’m currently learning App Development with flutter and DSA with JAVA
 - 👯 I’m looking to collaborate on App Development projects
-- 💬 Ask me about App Development, Android Studio, Flutter, Dart, Java, C, Python 
+- 💬 Ask me about Web development, App Development, Android Studio, Flutter, Dart, Java, C, Python 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dinkar-kumar-tiwari-185786289/)
 - 😄 Pronouns: Techie
